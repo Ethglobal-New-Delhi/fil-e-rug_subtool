@@ -4,17 +4,16 @@ A comprehensive decentralized platform for memecoin analysis, voting, and perman
 
 ## Features
 
-- **Memecoin Voting**: Vote on your favorite memecoins with real-time data from CoinGecko API
-- **On-Chain Governance**: Decentralized decision-making with permanent storage of all governance data
-- **Filecoin Storage**: Advanced file storage with Proof of Data Possession (PDP) on Filecoin
-- **Synapse Integration**: Seamless integration with Synapse SDK for decentralized storage
-
+- **Memecoin Voting**: Vote on your favorite memecoins with real-time data from CoinGecko API.
+- **On-Chain Governance**: Decentralized decision-making with permanent storage of all governance data.
+- **Filecoin Storage**: Used Lighthouse SDK for the storage.
+- **ASI-One model by aritificial superintelligence**: Used for the communication model between agents.
 ## Technologies Used
 
 - **Frontend**: React 18, TypeScript, Vite
 - **UI Components**: shadcn/ui, Tailwind CSS
 - **Blockchain**: Filecoin Calibnet, MetaMask integration
-- **Storage**: Filecoin IPFS, Synapse SDK
+- **Storage**: Filecoin IPFS, Lighthouse SDK
 - **Data**: CoinGecko API for memecoin data
 
 ## Getting Started
